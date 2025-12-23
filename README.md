@@ -12,6 +12,7 @@ API สำหรับสร้าง **รูปโปรไฟล์ (Avatar)*
 
 ### ตัวอย่างการเรียกใช้งาน
 https://profile-image-api-sai4.onrender.com/?name=John%20Doe
+
 https://profile-image-api-sai4.onrender.com/?name=John%20Doe?size=128
 
 ### หมายเหตุ
